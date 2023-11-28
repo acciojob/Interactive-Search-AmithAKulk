@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+body{
+	background-color: #775bf0;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	height: 90vh;
+}
+.search{
+	background-color: white;
+	padding: 1%;
+	display: flex;
+}
+.input{
+/* 	outline: none; */
+	border: none;
+}
+.btn{
+	background: none;
+	border: none;	
+}
